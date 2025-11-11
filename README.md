@@ -36,4 +36,5 @@ El proyecto incluye el proceso completo de **Extracción, Transformación y Carg
 ## 👩‍💻 Autor
 
 **Cecilia Patricia Maidana**
-📅 Proyecto realizado con fines de práctica y análisis de datos.
+
+- 📅 Proyecto realizado con fines de práctica y análisis de datos.
